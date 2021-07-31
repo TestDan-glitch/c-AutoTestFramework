@@ -1,0 +1,9 @@
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\bin\Debug\netcoreapp3.1\MPFrameWork.deps.json
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\bin\Debug\netcoreapp3.1\MPFrameWork.dll
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\obj\Debug\netcoreapp3.1\MPFrameWork.AssemblyInfoInputs.cache
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\obj\Debug\netcoreapp3.1\MPFrameWork.AssemblyInfo.cs
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\obj\Debug\netcoreapp3.1\MPFrameWork.csprojAssemblyReference.cache
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\bin\Debug\netcoreapp3.1\MPFrameWork.pdb
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\obj\Debug\netcoreapp3.1\MPFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\obj\Debug\netcoreapp3.1\MPFrameWork.dll
+C:\Users\Daniel Morgan\source\repos\MPFrameWork\MPFrameWork\obj\Debug\netcoreapp3.1\MPFrameWork.pdb
